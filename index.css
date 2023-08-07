@@ -24,10 +24,25 @@
 
 .another {
     text-align: center;
-    padding: 200px 0;
+    padding: 2px 0;
+}
+
+.another h2 {
+    font-size: 20px;
+}
+
+.main-manu li a:hover {
+    background-color: #960909;
+}
+
+body {
     background-image: url(363424992_190902643971038_5182773821876699231_n.jpg);
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+.test p {
+    font-size: 18px;
 }
