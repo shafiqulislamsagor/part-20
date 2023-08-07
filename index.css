@@ -1,0 +1,33 @@
+* {
+    padding: auto;
+    margin: auto;
+}
+
+.main-manu {
+    text-align: center;
+}
+
+.main-manu li {
+    display: inline-block;
+}
+
+.main-manu li a {
+    background-color: rgb(26, 21, 15);
+    color: rgb(217, 220, 223);
+    text-shadow: 2px 2px rgb(109, 17, 17);
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 50px;
+    margin-top: 14px;
+    margin-bottom: 5px;
+}
+
+.another {
+    text-align: center;
+    padding: 200px 0;
+    background-image: url(363424992_190902643971038_5182773821876699231_n.jpg);
+    background-position: top center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
